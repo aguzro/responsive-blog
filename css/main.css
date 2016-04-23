@@ -1,4 +1,49 @@
-/* Inserta tu codigo aqui */
+/* General Code */
+body {
+	margin: 0 auto;
+}
+img {
+	max-width: 80%;
+}
+
+
+/* NAV */
+nav {
+	background-color: #1c1821;
+}
+ul {
+	list-style: none;
+	overflow: hidden;
+} 
+ul li {
+	float: left;
+}
+ul li a {
+	text-decoration: none;
+}
+
+
+/* HEADER */
+
+
+
+/* GALLERY */
+
+
+
+/* ARTICLES */
+
+
+
+/* ASIDE */ 
+
+
+
+/* FOOTER */
+
+
+
+
 
 /* Responsive */
 
